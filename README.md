@@ -1,4 +1,4 @@
-<h1>👨‍💻 Hi, i'm z3ox1s and a cybersecurity and programming enthusiast.</h1>
+<h1>👨‍💻 Hi, i'm z3ox1s and a programming enthusiast.</h1>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/?username=z3ox1s&theme=dark"/>
