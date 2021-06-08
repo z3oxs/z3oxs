@@ -9,6 +9,5 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/?username=z3ox1s&theme=dark" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3ox1s&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=z3ox1s&theme=dark" />
 </a>
