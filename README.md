@@ -4,6 +4,6 @@
 const me = {
     name: 'Carlos Daniel',
     age: 19,
-    knowledge: 'HTML, CSS, JavaScript & Python'
+    knowledge: 'JavaScript & Python'
 }
 ``` 
