@@ -13,4 +13,4 @@ const me = {
 }
 ```
 
-![Stats](https://github-readme-stats.vercel.app/api?username=z3ox1s&show_icons=true&theme=radical&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=z3oxs&show_icons=true&theme=radical&count_private=true)
