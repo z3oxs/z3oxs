@@ -21,3 +21,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
      <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" title="Golang" />-->
 </div>
+
+<br>
+<h2 align="center">Stats</h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3oxs&layout=compact" />
