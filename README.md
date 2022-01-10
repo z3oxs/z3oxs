@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Carlos Daniel</h1><br>
+<h1>About me</h1><br>
 
 - 📆 I have 19 years old
  
@@ -7,7 +7,7 @@
 - 🐶 🐱 I love dogs and cats
 
 <br>
-<h2 align="center">Languages and Tools</h1><br>
+<h2>Languages and Tools</h2><br>
 
 <div align="center">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" />
@@ -23,5 +23,5 @@
 </div>
 
 <br>
-<h2 align="center">Stats</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3oxs&layout=compact" />
+<h2>Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3oxs&layout=compact&langs_count=6" />
