@@ -25,4 +25,6 @@
 
 <br>
 <h2>Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3oxs&layout=compact&langs_count=8" />
+<div align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3oxs&layout=compact&langs_count=8" />
+</div>
