@@ -22,6 +22,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" title="Golang" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
+     <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="50" title="Prisma" />
 </div>
 
 <br>
