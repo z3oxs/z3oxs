@@ -1,13 +1,15 @@
-<h1>About me</h1><br>
+<h1 align="center">About me</h1><br>
 
-- 📆 I have 19 years old
- 
-- 🗿 My hobbies are Programming and Calisthenics
-
-- 🐶 🐱 I love dogs and cats
+<div align="center">
+<dd>
+    <dt>📆 I'm 19</dt>
+    &nbsp;
+    <dt>🗿 My hobbies are Programming and Calisthenics</dt>
+<dd>
+</div>
 
 <br>
-<h2>Languages and Tools</h2><br>
+<h2 align="center">Languages and Tools</h2><br>
 
 <div align="center">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" />
@@ -26,7 +28,7 @@
 </div>
 
 <br>
-<h2>Stats</h2>
+<h2 align="center">Stats</h2>
 <div align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3oxs&layout=compact&langs_count=8" />
 </div>
