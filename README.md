@@ -30,5 +30,7 @@
 <br>
 <h2 align="center">Stats</h2>
 <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3oxs&layout=compact&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3oxs&layout=compact&langs_count=5&theme=radical" />
+    <br /><br />
+    <img src="https://github-readme-stats.vercel.app/api?username=z3oxs&show_icons=true&theme=radical" />
 </div>
