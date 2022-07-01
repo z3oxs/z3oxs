@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/M2c4fqx/125847-vaporwave-minimalism-digital-art-dark.jpg" width="100%" />
+<img src="./wallpaper.png" width="100%" />
 
 <hr>
 
