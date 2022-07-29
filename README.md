@@ -30,4 +30,5 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" />
      <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="30" title="Prisma" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="30" title="Postgres" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="30" title="Rust" />
 </div>
